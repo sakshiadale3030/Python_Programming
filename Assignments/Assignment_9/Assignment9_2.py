@@ -1,0 +1,30 @@
+######################################################################
+#  Function Name : Pattern()
+#  Descripton :    It is used to display the Pattern
+#  Parameter :     Integer 
+#  Return :        Nothing
+#  Author :        Sakshi Ashok Adale
+#  Date :          28/01/2026
+######################################################################
+
+def Pattern(No):
+    for i in range(No):
+        for j in range(No):
+            print("*",end=" ")
+
+        print()    
+
+######################################################################
+# Function name :- main()
+# Description :-   Entry point of the application
+# Author :         Sakshi Ashok Adale
+# Date :-          28/01/2026
+######################################################################
+
+def main():
+    Value = int(input("Enter the number : "))
+
+    Pattern(Value)
+    
+if __name__ == "__main__":
+    main()
