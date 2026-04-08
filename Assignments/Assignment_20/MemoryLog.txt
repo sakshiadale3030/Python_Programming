@@ -1,0 +1,43 @@
+Memory Monitoring Log
+Timestamp: 2026-04-02 19:56:03.296584
+
+Process Name : code
+PID : 4133
+Memory (MB) : 518.61
+----------------------------------------
+Process Name : gnome-shell
+PID : 2439
+Memory (MB) : 338.79
+----------------------------------------
+Process Name : code
+PID : 3635
+Memory (MB) : 274.21
+----------------------------------------
+Process Name : gnome-software
+PID : 2727
+Memory (MB) : 266.50
+----------------------------------------
+Process Name : code
+PID : 3872
+Memory (MB) : 260.43
+----------------------------------------
+Process Name : nautilus
+PID : 5774
+Memory (MB) : 192.94
+----------------------------------------
+Process Name : code
+PID : 3487
+Memory (MB) : 189.25
+----------------------------------------
+Process Name : code
+PID : 3581
+Memory (MB) : 153.06
+----------------------------------------
+Process Name : Xwayland
+PID : 3514
+Memory (MB) : 121.27
+----------------------------------------
+Process Name : mutter-x11-frames
+PID : 3556
+Memory (MB) : 110.60
+----------------------------------------
